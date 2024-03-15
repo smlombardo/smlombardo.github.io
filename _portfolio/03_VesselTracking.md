@@ -1,5 +1,5 @@
 ---
-title: "3) Forensic Investigation of Vessel Capsizing"
+title: "Forensic Investigation of Vessel Capsizing"
 excerpt: "Particle dispersal simulations (individual based models) are often employed to predict dispersal patterns of contaminants or biologics (e.g., larvae) at sea. Here, I was contracted to recreate the trajectory of a capsized vessel.<br/><img src='/images/VesselCapsize.jpg'>"
 collection: portfolio
 ---
