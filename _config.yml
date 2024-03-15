@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "_                                                                                                                                            _"
-title_separator          : "                                 "
+title                    : "_____________________________________________________________________"
+title_separator          : "-"
 name                     : &name "Steven M. Lombardo"
 description              : &description "Research Associate"
 url                      : https://smlombardo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
