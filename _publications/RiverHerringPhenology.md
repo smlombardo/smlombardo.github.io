@@ -18,3 +18,5 @@ relative to the 1980s. The changes in ingress and egress timing have shortened t
 alewife over four decades and 18 days for blueback herring over three decades. We found that the rate of vernal warming was
 faster during 2001–2016 relative to 1973–1988 and is the most parsimonious explanation for changes in spawning phenology. The
 influence of a shortened spawning season on river herring population dynamics warrants further investigation.
+
+![RiverHerringPhenology](https://github.com/smlombardo/smlombardo.github.io/assets/163476157/11a542a2-4479-4c56-87cf-aa04f5127e9d)
