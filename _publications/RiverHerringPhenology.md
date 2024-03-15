@@ -6,7 +6,7 @@ excerpt: 'Spawning migration phenology of River Herring was characterized from t
 date: 2020-11-14
 venue: 'Canadian Journal of Fisheries and Aquatic Sciences'
 paperurl: 'http://smlombardo.github.io/files/RiverHerringPhenology.pdf'
-citation: 'Lombardo, S. M., Buckel, J. A., Hain, E. F., Griffith, E. H., & White, H. (2020). Evidence for temperature-dependent shifts in spawning times of anadromous alewife (<i>Alosa pseudoharengus</i>) and blueback herring (<i>Alosa aestivalis</i>). <i>Canadian Journal of Fisheries and Aquatic Sciences</i>, 77(4), 741-751.'
+citation: '<b>Lombardo, S. M.</b>, Buckel, J. A., Hain, E. F., Griffith, E. H., & White, H. (2020). Evidence for temperature-dependent shifts in spawning times of anadromous alewife (<i>Alosa pseudoharengus</i>) and blueback herring (<i>Alosa aestivalis</i>). <i>Canadian Journal of Fisheries and Aquatic Sciences</i>, 77(4), 741-751.'
 ---
 
 Abstract: We analyzed four decades of presence–absence data from a fishery-independent survey to characterize the long-term
