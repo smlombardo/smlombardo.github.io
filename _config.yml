@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "_____________           "
+title                    : "Steven M. Lombardo, PhD"
 title_separator          : "-"
 name                     : &name "Steven M. Lombardo"
 description              : &description "Research Associate"
@@ -22,7 +22,7 @@ repository               : "smlombardo.github.io"
 author:
   # Biographic information
   avatar           : "Headshot_2024.jpg"
-  name             : "Steven M. Lombardo, PhD"
+  name             : "Research Scientist"
   pronouns         : # example: "she/her"  
   bio              : "Fisheries Ecology, Human Dimensions, Geospatial Programming"
   location         : "Fort Pierce, FL"
