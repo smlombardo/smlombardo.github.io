@@ -1,5 +1,5 @@
 ---
-title: "2) A Hot Mess - Climate Crisis in the Florida Keys"
+title: "A Hot Mess - Climate Crisis in the Florida Keys"
 excerpt: "In July 2023, water temperatures in the Florida Keys reached record highs (>90 F!) causing significant coral bleaching and fish kills.<br/><img src='/images/July2023Heatwave.png'>"
 collection: portfolio
 ---
