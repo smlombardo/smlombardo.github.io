@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Steven M. Lombardo, PhD"
+title                    : "Steven M. Lombardo, Ph.D."
 title_separator          : "-"
 name                     : &name "Steven M. Lombardo"
 description              : &description "Research Associate"
