@@ -9,4 +9,12 @@ paperurl: 'http://smlombardo.github.io/files/RiverHerringPhenology.pdf'
 citation: 'Lombardo, S. M., Buckel, J. A., Hain, E. F., Griffith, E. H., & White, H. (2020). Evidence for temperature-dependent shifts in spawning times of anadromous alewife (<i>Alosa pseudoharengus</i>) and blueback herring (<i>Alosa aestivalis</i>). <i>Canadian Journal of Fisheries and Aquatic Sciences</i>, 77(4), 741-751.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract: We analyzed four decades of presence–absence data from a fishery-independent survey to characterize the long-term
+phenology of river herring (alewife, Alosa pseudoharengus; and blueback herring, Alosa aestivalis) spawning migrations in their
+southern distribution. We used logistic generalized additive models to characterize the average ingress, peak, and egress timing
+of spawning. In the 2010s, alewife arrived to spawning habitat 16 days earlier and egressed 27 days earlier (peak 12 days earlier)
+relative to the 1970s. Blueback herring arrived 5 days earlier and egressed 23 days earlier (peak 13 days earlier) in the 2010s
+relative to the 1980s. The changes in ingress and egress timing have shortened the occurrence in spawning systems by 11 days for
+alewife over four decades and 18 days for blueback herring over three decades. We found that the rate of vernal warming was
+faster during 2001–2016 relative to 1973–1988 and is the most parsimonious explanation for changes in spawning phenology. The
+influence of a shortened spawning season on river herring population dynamics warrants further investigation.
