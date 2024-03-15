@@ -1,5 +1,5 @@
 ---
-title: "Assessment of Changes in the Lower Keys Tarpon Fishery"
+title: "1) Assessment of Changes in the Lower Keys Tarpon Fishery"
 excerpt: "On behalf of [Bonefish & Tarpon Trust](https://www.bonefishtarpontrust.org/) and the [Lower Keys Guides Association](https://lkga.org/) - an investigation into the decline of the Tarpon fishery.<br/><img src='/images/TarponDecline.png'>"
 collection: portfolio
 ---
