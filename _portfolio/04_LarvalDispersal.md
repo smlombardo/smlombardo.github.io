@@ -3,7 +3,7 @@ title: "Biophysical Larval Dispersal Models"
 excerpt: "The larval dispersal models that I programmed and visualized here are from my publication on [Bonefish larval dispersal](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276528). Modeling and visualizing in Ichthyop, R, and ArcGIS make for compelling visual assessments of dispersal patterns!<br/>
 <video controls="" width="800" height="500" muted="" loop="" autoplay="">
 https://github.com/smlombardo/smlombardo.github.io/assets/163476157/3e44d1bd-97ad-4271-af4a-d05bc40db4f0
-</video>
+</video>"
 collection: portfolio
 ---
 Larval dispersal - the process inclusive of transport from spawn location by physical ocean processes (i.e., currents) and behavior (i.e., swimming, diel vertical migration, etc.) through the settlement phase at nursery habitats. I programmed dispersal simulations in the program Ichthyop using the Navy Coastal Ocean Model (NCOM AmSeas) as the hydrodynamic backbone, created the grid netcdf in MATLAB with ROMS, created and adjusted the larval settlement grid (nursery settlements) in ArcGIS, managed the model program files (xml) in R, and analyzed and produced visuals in R and Ichtyop itself.
