@@ -4,7 +4,7 @@ excerpt: "The larval dispersal models that I programmed and visualized here are 
 collection: portfolio
 ---
 <video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="https://github.com/smlombardo/smlombardo.github.io/assets/163476157/4ec59050-5673-4938-a0e0-65ced7d5e520">
+<source src='https://github.com/smlombardo/smlombardo.github.io/assets/163476157/cca0ca27-f951-4b6d-918a-60f0a4054de5'>
 </video>
 Larval dispersal - the process inclusive of transport from spawn location by physical ocean processes (i.e., currents) and behavior (i.e., swimming, diel vertical migration, etc.) through the settlement phase at nursery habitats. I programmed dispersal simulations in the program Ichthyop using the Navy Coastal Ocean Model (NCOM AmSeas) as the hydrodynamic backbone, created the grid netcdf in MATLAB with ROMS, created and adjusted the larval settlement grid (nursery settlements) in ArcGIS, managed the model program files (xml) in R, and analyzed and produced visuals in R and Ichtyop itself.
 
