@@ -1,9 +1,9 @@
 ---
 title: "Biophysical Larval Dispersal Models"
-excerpt: "The larval dispersal models that I programmed and visualized here are from my publication on [Bonefish larval dispersal](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276528). Modeling and visualizing in Ichthyop, R, and ArcGIS make for compelling visual assessments of dispersal patterns!<br/>
+excerpt: "The larval dispersal models that I programmed and visualized here are from my publication on [Bonefish larval dispersal](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276528). Modeling and visualizing in Ichthyop, R, and ArcGIS make for compelling visual assessments of dispersal patterns!<br/>"
 <video controls="" width="800" height="500" muted="" loop="" autoplay="">
 <source src="/images/DispersalModel.mp4'>
-</video>"
+</video>
 collection: portfolio
 ---
 
