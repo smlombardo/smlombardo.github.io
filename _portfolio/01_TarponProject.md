@@ -14,5 +14,5 @@ The analysis of the guide-drawn fishing maps resulted in identifying when and wh
 High-density vessel traffic areas (pink, dark orange) spatially align with areas where only 0-20% of the historical Tarpon fishery remain.
 
 
-<img src='/images/SandbarKaijura.png'>
+<img src='/images/SandbarKaijura.jpg'>
 Recreational boat traffic in the Florida Keys causes significant damage to seagrass flats and disruption of access to channels that are used by Tarpon.
