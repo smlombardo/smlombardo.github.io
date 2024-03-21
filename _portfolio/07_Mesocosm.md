@@ -9,17 +9,22 @@ As part of the Bonefish & Tarpon Trust / FAU Harbor Branch Oceanographic Institu
 <img src='/images/JuvenileBonefishMesocosm.jpg'>
 Juvenile Bonefish shoaling with Mojarra.
 
+
 <img src='/images/MesocosmOverhead.jpg'>
 Variable structure was represented by artificial seagrasses, high structure = <i>Thalassia testudinum</i> and low structure = <i>Halodule wrightii</i>, separated by corridors.
+
 
 <img src='/images/MesocosmConstruction.jpg'>
 Four 4 cubic meter large-scale production research tanks were situated atop platforms with a centerdrain flowthrough saltwater system.
 
+
 <img src='/images/SeagrassTieing.jpg'>
 With the help of the whole [Ajemian lab](https://www.fisheco.org/), we tied artificial seagrass shoots in a randomized pie-grid at 250 shoots per meter squared.
 
+
 <img src='/images/FinishedMesocosm.jpg'>
 Completed mesocosm structure, which took three weeks to build and six months of maintaining. Thanks to Pete Stock, Chris Robinson, Paul Wills, Matt Ajemian, Jonathon Banakos, Tony Cianciotto, Mason Thurman, Jessie Stevens, Brianna Cahill, Michelle Edwards, Richard Baptiste, Zack Nilles, and Erik Perna.
+
 
 <img src='/images/BeachSeine.jpg'>
 Seining for Bonefish in the Indian River Lagoon, FL.
