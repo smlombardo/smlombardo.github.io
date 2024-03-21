@@ -6,7 +6,7 @@ collection: portfolio
 
 As part of the Bonefish & Tarpon Trust / FAU Harbor Branch Oceanographic Institute Bonefish Reproduction Research Project, I wanted to look at benthic habitat preferences of juvenile bonefish - the structural composition of a nursery. Guiding Link Foundation intern, Mason Thurman (now Clemson Ph.D. student), we collected juvenile bonefish (<i>Albula</i> spp.) from the Indian River Lagoon, FL and conducted a quad-replicated mesocosm experiment for benthic habitat preference, inter-species shoaling preference, and predator response. Juvenile bonefish preferred unstructured (sand) and minimally structured (<i>Halodule wrightii</i> benthos, mixed-species shoaling, and still preferred unstructured bottom during predator avoidance.
 
-<img src='/images/Mesocosm.jpg'>
+<img src='/images/JuvenileBonefishMesocosm.jpg'>
 Juvenile Bonefish shoaling with Mojarra.
 
 <img src='/images/MesocosmOverhead.jpg'>
