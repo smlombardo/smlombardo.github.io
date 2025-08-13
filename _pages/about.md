@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fisheries scientist that leverages quantitative and computer programing skills to complement field studies in addressing dilemmas faced by fisheries managers and stakeholders, most often pertaining to habitat conservation. While my background is in fisheries and oceanography, I enjoy applying my skills to a wide variety of computational challenges and productions.
+I’m a Marine Ecologist and Spatial Modeler with 10+ years of experience blending field research with advanced ecological and geospatial modeling to guide marine resource management decisions. My work has been used in protected area designations, fisheries management plans, and environmental impact assessments across the Atlantic Seaboard and Caribbean.
+
+I specialize in integrating diverse datasets, literature syntheses, acoustic telemetry, and species distribution and habitat connectivity modeling — often incorporating Traditional Ecological Knowledge (TEK/LEK) — into decision-support tools used by agencies, conservation organizations, and fishing communities. My collaborators have included NOAA’s Office of National Marine Sanctuaries, BOEM, state agencies, and non-profit conservation groups.
+
+Fluent in R, Python, ArcGIS, and some MATLAB & SQL. I build automated workflows that improve data quality, accelerate species–environment analyses, and cut processing time for diverse data (e.g., tabular, raster, netcdf). My work is recognized for delivering actionable, science-based recommendations that balance sustainable use with the protection of ecological integrity.
 
 [<b>Download CV</b>](http://smlombardo.github.io/files/LombardoCV.pdf)
 
