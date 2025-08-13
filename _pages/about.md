@@ -13,7 +13,7 @@ I specialize in integrating diverse datasets, literature syntheses, acoustic tel
 
 Fluent in R, Python, ArcGIS, and some MATLAB & SQL. I build automated workflows that improve data quality, accelerate species–environment analyses, and cut processing time for diverse data (e.g., tabular, raster, netcdf). My work is recognized for delivering actionable, science-based recommendations that balance sustainable use with the protection of ecological integrity.
 
-[<b>Download CV</b>](http://smlombardo.github.io/files/LombardoCV.pdf)
+[<b>Download CV</b>](http://smlombardo.github.io/files/Lombardo_CV_20250812.pdf)
 
 <video controls="" width="800" height="500" muted="" loop="" autoplay="">
 <source src="https://github.com/smlombardo/smlombardo.github.io/assets/163476157/4ec59050-5673-4938-a0e0-65ced7d5e520">
